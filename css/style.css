@@ -30,6 +30,10 @@ h3{
 }
 
 /* TOP NAVBAR */
+.logo{
+    height:20px;
+    width:20px;
+}
 .top-navbar{
     position: sticky;
     top: 0px;
